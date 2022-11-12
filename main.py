@@ -1,6 +1,6 @@
-
 def main():
-print("Čauko kakauko")
-print("#dzbanmoment")
-id "__name__" == "__main__"
-main()
+    print("Čauko kakauko")
+    print("#dzbanmoment")
+
+if "__name__" == "__main__":
+    main()

@@ -5,6 +5,6 @@ b = 3.5
 c = True
 print(a + b + c)
 
-d="textík"
+d = "Textík"
 e = [a, b, c, d]
 print(e)

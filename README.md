@@ -1,6 +1,6 @@
 # E4A_PRO_2223
 
-
+Výuka programování pro E4A
 
 ## Getting started
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://git.uzlabina.cz/novotmat/e4a_pro_2223.git
+git remote add origin https://git.uzlabina.cz/tejc/e4a_pro_2223.git
 git branch -M master
 git push -uf origin master
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://git.uzlabina.cz/novotmat/e4a_pro_2223/-/settings/integrations)
+- [ ] [Set up project integrations](https://git.uzlabina.cz/tejc/e4a_pro_2223/-/settings/integrations)
 
 ## Collaborate with your team
 
