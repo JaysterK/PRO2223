@@ -3,9 +3,10 @@ Kouba
 olovo
 #dzbanmoment
 útoky
-tužka
-usb
-memory
-myš
-monitor
+klávesnice
+FBI
+DDOS
+ochrana
+flash
+
 

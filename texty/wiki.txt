@@ -1,4 +1,6 @@
-Počítačová bezpečnost Počítačová bezpečnost, kybernetická bezpečnost neboli bezpečnost informačních technologií (IT bezpečnost), resp. bezpečnost informačních a komunikačních technologií (ICT bezpečnost), je obor informatiky, který se zabývá ochranou počítačových systémů a sítí před neoprávněným přístupem k systémům – informacím, a před počítačovou kriminalitou – krádeží nebo poškozením hardwaru, softwaru nebo elektronických údajů, jakož i před narušením nebo zneužitím poskytovaných služeb, před kybernetickým útokem. 
+Počítačová bezpečnost, kybernetická bezpečnost neboli bezpečnost informačních technologií (IT bezpečnost), resp. bezpečnost informačních a komunikačních technologií (ICT bezpečnost), 
+je obor informatiky, který se zabývá ochranou počítačových systémů a sítí před neoprávněným přístupem k systémům – informacím, a před počítačovou kriminalitou – krádeží nebo poškozením hardwaru, softwaru nebo 
+elektronických údajů, jakož i před narušením nebo zneužitím poskytovaných služeb, před kybernetickým útokem. 
 Hlavním cílem je zajistit spolehlivost, integritu a soukromí údajů systému. 
 Počítačová ochrana ve třech krocích: 1. prevence – ochrana před hrozbami (riziky)
 2. detekce – odhalení neoprávněných činností a slabých míst v systému

@@ -1,14 +1,15 @@
 def readB(x):
- with open('C:/Git/PRO2223/PRO2223/texty/wiki.txt', encoding="utf8") as soubor:
+ with open(r'C:/Git/PRO2223/PRO2223/texty/wiki.txt',encoding="utf8") as soubor:
     for int, line in enumerate(soubor):
-        if x in line:
-            print('Text obsahuje zakázané slovo', x)
-            print('Čislo řádku:', int)
-            print('Řadek:', line)
-              
+            if x in line:
+             print('Text obsahuje zakázané slovo', x)
+             print('Číslo řádku:', int)
+             print('Řádek:', line)
+             break
+
 def readA():
- with open('C:/Git/PRO2223/PRO2223/texty/slova.txt', encoding="utf8") as slova:
+ with open(r'C:/Git/PRO2223/PRO2223/texty/slova.txt', encoding="utf8") as slova:
     for line in slova:
         readB(line)
 
-readA() 
+readA()
